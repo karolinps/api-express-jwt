@@ -1,0 +1,2 @@
+MONGODB_URI= mongodb://localhost:27017/apiusers
+SECRET= 12345555TOKEN
